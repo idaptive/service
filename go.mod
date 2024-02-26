@@ -1,4 +1,4 @@
-module github.com/idaptive/service
+module github.com/anandmokashi/service
 
 go 1.10
 
